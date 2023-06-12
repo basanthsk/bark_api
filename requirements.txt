@@ -1,0 +1,13 @@
+boto3
+encodec
+funcy
+huggingface-hub>=0.14.1
+numpy
+scipy
+tokenizers
+torch
+torchvision
+tqdm
+transformers
+fastapi
+uvicorn[standard]
