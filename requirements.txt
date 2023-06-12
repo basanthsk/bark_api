@@ -11,3 +11,4 @@ tqdm
 transformers
 fastapi
 uvicorn[standard]
+pysoundfile
